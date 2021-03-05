@@ -1,46 +1,34 @@
-# Drawl Nag
-Simple WhatsApp Bot
+# Adhwa9981
+WhatsApp Robot Malaysia
 
-### FOR TERMUX USER
+### Cara Install
 ```bash
-> pkg update && pkg upgrade
-> pkg install git -y
-> pkg install nodejs -y
-> pkg install ffmpeg -y
-> pkg install imagemagick -y
-> git clone https://github.com/Arya274/Arya-BOT4
-> cd Arya-BOT4
-> npm install
+> Download aplikasi termux di playstore
+> Buka aplikasi dan tulis perintah ini:
+> pkg install git
+> pkg install ffmpeg
+> pkg install imagemagick
+> pkg install nodejs
+> git clone https://github.com/Adhwa9981/wan-bot-9981
+> cd wan-bot-9981
+> npm i
 ```
-###### Run
-```bash
-> node . [<session name>] (session name is optional)
+PASTIKAN ANDA TEKAN ENTER SELEPAS TULIS
+SATU BARISAN AYAT, JIKA ADA PERTAYAAN 
+SEPERTI INI [Y/n] SILA TAIP Y DAN TEKAN ENTER
 ```
-
----------
-
-### FOR WINDOWS/VPS/RDP USER
-* Download And Install Git [`Click Here`](https://git-scm.com/downloads) <br>
-* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download) <br>
-* Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
-* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
-```bash
-> git clone https://github.com/Arya274/Arya-BOT4
-> cd Arya-BOT4
-> npm install
-```
-###### Run
+###### Jalankan
 ```bash
 > node index.js
+> Scan QR Code itu di whatsapp web anda
+> QR Code sah dalam 20 saat sahaja
+> Sila guna QR Code paling bawah
 ```
-
-# Recode: Drawl Nag
-Script: @Nurutomo
-
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
-
-</p>
-
-</p>
-
-OFFICIAL: [GITHUB](https://github.com/Arya274)
+###### Berhenti
+```bash
+> Sila tekan butang CTRL + Z
+```
+###### Berhenti
+```bash
+SILA TEKAN LINK INI JIKA TIDAK FAHAM,
+CHAT DENGAN OWNER: https://wa.me/60164492583
