@@ -12,7 +12,6 @@ WhatsApp Robot Malaysia
 > git clone https://github.com/Adhwa9981/wan-bot-9981
 > cd wan-bot-9981
 > npm i
-```
 PASTIKAN ANDA TEKAN ENTER SELEPAS TULIS
 SATU BARISAN AYAT, JIKA ADA PERTAYAAN 
 SEPERTI INI [Y/n] SILA TAIP Y DAN TEKAN ENTER
@@ -28,7 +27,7 @@ SEPERTI INI [Y/n] SILA TAIP Y DAN TEKAN ENTER
 ```bash
 > Sila tekan butang CTRL + Z
 ```
-###### Berhenti
+###### Info
 ```bash
 SILA TEKAN LINK INI JIKA TIDAK FAHAM,
 CHAT DENGAN OWNER: https://wa.me/60164492583
